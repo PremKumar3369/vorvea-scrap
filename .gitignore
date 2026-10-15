@@ -1,0 +1,11 @@
+﻿# Local preview artifacts
+.chrome-preview/
+.edge-preview/
+
+# Vercel local project metadata
+.vercel/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
