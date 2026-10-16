@@ -1,7 +1,7 @@
-/* Editable business details. Update the phone number here when it changes. */
+﻿/* Editable business details. Update the phone number here when it changes. */
 const VORVEA_CONFIG = {
   brand: 'VORVEA',
-  phone: '8147251445',
+  phone: '8884521351',
   whatsapp: '918884521351',
   whatsappMessage: 'Hi! I am interested in selling industrial scrap. Can we discuss the materials and collection?',
   email: '', // Add a verified enquiry email when available.
@@ -106,7 +106,7 @@ document.querySelectorAll('a[href^="#"]').forEach((link) => {
 });
 
 /* ==========================================
-   VORVEA — Smooth image hover zoom
+   VORVEA â€” Smooth image hover zoom
    ========================================== */
 
 document.querySelectorAll(
